@@ -36,8 +36,8 @@ terraform destroy
 ## Repository Structure
 
 terraform-ec2-task
-│
-├── main.tf
-├── .gitignore
-├── README.md
-└── screenshots
+
+ ── main.tf
+ ── .gitignore
+ ── README.md
+ ── screenshots
